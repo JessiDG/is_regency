@@ -1,0 +1,2 @@
+# is_regency
+Compares a manuscript text against 21 million words of Regency-era literature to test if the manuscript is using Regency-era vernacular. Use case: If you're writing a regency-era historical novel and want to see if the language you're using is period-typical. This is not to say that words outside of this set did not exist -- some are very old. But they were not in common parlance in the literature of the era, in Austen, Shelley, Edgeworth, Keats, or included in Webster's 2nd Edition (1828).
